@@ -3,8 +3,8 @@
     {
       "name": "home",
       "price": "дом",
-	"picture": "",
+      "picture": "",
       "id": 1
-    },
+    }
   ]
 }
